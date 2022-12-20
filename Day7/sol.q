@@ -35,5 +35,6 @@ f:{[input]
 f1:{[input]sum r where 100000>=(`$"/0")_r:f input}
 
 
-    
+q)\ts:1000 f1 read0`:./7_1_input.txt
+12909 85264
     
