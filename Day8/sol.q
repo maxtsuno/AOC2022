@@ -23,6 +23,10 @@ w:{[f;input]
     }
 
 /
-q)\ts:1000 w[g]read0`:./8_1_input.txt
-86228 321472
+q)\ts:1000 input:read0`:./8_1_input.txt
+82 43872
+q)\ts:1000 w[g]input
+87430 307696
+q)\ts:1000 v[f]input
+37187 51824
 \
